@@ -25,6 +25,8 @@ The applications allows users to do the following:
 
 
 
+## extractLicenses
+This project is [mit](LICENSE.md)
    
 
 ## Development server
