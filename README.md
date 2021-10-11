@@ -22,6 +22,9 @@ The applications allows users to do the following:
 
 ## live demo
 [live](https://jepkess.github.io/quote-app/)
+
+
+
    
 
 ## Development server
