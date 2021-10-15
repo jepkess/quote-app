@@ -9,6 +9,7 @@ import { QuotedetailComponent } from './quotedetail/quotedetail.component';
 import { CountdatePipe } from './countdate.pipe';
 import { StrikethroughDirective } from './strikethrough.directive';
 import { QuoteFormComponent } from './quote-form/quote-form.component';
+import { HighlightDirective } from './highlight.directive';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { QuoteFormComponent } from './quote-form/quote-form.component';
     QuotedetailComponent,
     CountdatePipe,
     StrikethroughDirective,
-    QuoteFormComponent
+    QuoteFormComponent,
+    HighlightDirective
   ],
   imports: [
     BrowserModule,
